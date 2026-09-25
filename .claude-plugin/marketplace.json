@@ -1,0 +1,18 @@
+{
+  "name": "instatic-lp",
+  "owner": {
+    "name": "Roger Santos",
+    "url": "https://github.com/rogerznts"
+  },
+  "metadata": {
+    "description": "Skills para construir e publicar landing pages no Instatic via MCP."
+  },
+  "plugins": [
+    {
+      "name": "instatic",
+      "source": "./",
+      "description": "Conectar uma instância Instatic via MCP e construir landing pages com design tokens, verificação visual e publicação controlada.",
+      "category": "development"
+    }
+  ]
+}

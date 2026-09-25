@@ -1,0 +1,13 @@
+{
+  "name": "instatic",
+  "version": "0.1.0",
+  "description": "Skills para operar um Instatic (CMS visual self-hosted) via MCP: conectar a instância e construir landing pages com design tokens, verificação visual e publicação controlada.",
+  "author": {
+    "name": "Roger Santos",
+    "url": "https://github.com/rogerznts"
+  },
+  "homepage": "https://github.com/rogerznts/instatic-lp",
+  "repository": "https://github.com/rogerznts/instatic-lp",
+  "license": "MIT",
+  "keywords": ["instatic", "mcp", "landing-page", "cms", "website-builder"]
+}
