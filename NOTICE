@@ -6,3 +6,13 @@ distributed under the MIT License:
   Copyright (c) 2026 David Babinec
 
 Instatic's full license text: https://github.com/CoreBunch/Instatic/blob/main/LICENSE
+
+The style router and style guides in skills/instatic-lp/references/styles/
+adapt the taste-skill, minimalist-skill, soft-skill, brutalist-skill and
+redesign-skill skills of taste-skill (https://github.com/Leonxlnx/taste-skill,
+commit c184364), distributed under the MIT License:
+
+  MIT License
+  Copyright (c) 2026 Leonxlnx
+
+taste-skill's full license text: https://github.com/Leonxlnx/taste-skill/blob/main/LICENSE
